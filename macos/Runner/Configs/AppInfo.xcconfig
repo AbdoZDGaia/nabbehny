@@ -8,7 +8,7 @@
 PRODUCT_NAME = nabbehny
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.nabbehny
+PRODUCT_BUNDLE_IDENTIFIER = com.abdozdgaia.nabbehny
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 com.abdozdgaia. All rights reserved.
